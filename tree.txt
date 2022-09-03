@@ -1,0 +1,56 @@
+卷 datas 的文件夹 PATH 列表
+卷序列号为 D884-63E5
+D:.
+│  main.py
+│  tree.txt
+│  
+├─.idea
+│  │  .gitignore
+│  │  auto_UI.iml
+│  │  misc.xml
+│  │  modules.xml
+│  │  workspace.xml
+│  │  
+│  └─inspectionProfiles
+│          profiles_settings.xml
+│          
+├─Comm
+│      base.py
+│      Compare.py
+│      Data.py
+│      Email.py
+│      Encryption.py
+│      Log.py
+│      __init__.py
+│      
+├─config
+│      config.ini
+│      Config.py
+│      __init__.py
+│      
+├─db_init
+│      db_base.py
+│      db_conn.yaml
+│      __init__.py
+│      
+├─Logs
+│  │  logs.txt
+│  │  __init__.py
+│  │  
+│  └─screen
+├─Report
+│      __init__.py
+│      
+└─Testcase
+    │  data_test.py
+    │  __init__.py
+    │  
+    └─Mode1
+        │  __init__.py
+        │  
+        ├─Case
+        │      __init__.py
+        │      
+        └─Testdata
+                __init__.py
+                
